@@ -67,7 +67,6 @@ py==1.10.0
 pycparser==2.20
 Pygments==2.9.0
 pyparsing==2.4.7
-pypiwin32==223
 pyrsistent==0.18.0
 pytest==4.6.3
 pytest-cov==2.7.1
