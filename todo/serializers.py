@@ -7,6 +7,7 @@ from .models import *
 
 
 class TodoSerializer(serializers.ModelSerializer):
+
     class Meta:
         fields = (
             'id',
