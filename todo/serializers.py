@@ -14,3 +14,6 @@ class TodoSerializer(serializers.ModelSerializer):
             'title',
         )
         model = Todo
+
+
+
